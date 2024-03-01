@@ -1,0 +1,6 @@
+1. Ayam
+2. Ikan
+3. Anjing
+4. Babi
+5. Kuda
+6. Sapi
